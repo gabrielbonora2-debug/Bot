@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": " medi_b.aternos.me",
-    "port": ,
+    "port": 17120,
     "version": "26.1.2",
     "try-creative": false
   },
